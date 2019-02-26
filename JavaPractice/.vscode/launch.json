@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.pypert.java.basic.BubbleSort",
+            "args": "",
+            "projectName": "JavaPractice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArmstrongNumber",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.pypert.java.basic.ArmstrongNumber",
+            "args": "",
+            "projectName": "JavaPractice"
+        }
+    ]
+}
